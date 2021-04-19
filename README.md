@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning WebDevelopment & Practicing DSA Problems (C++ and python)
 - 💞️ I’m looking to collaborate on Web Based Project & ready to learn about open source projects
 - 📫 You can reach me via LinkedIn 😄
+- https://www.linkedin.com/in/akshatkushwaha/
 
 <!---
 akshatkushwaha/akshatkushwaha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
