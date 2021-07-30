@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshatkushwaha
 - 👀 I’m interested in Web Development & Contribution in Open Source Projects
-- 🌱 I’m currently learning WebDevelopment & Practicing DSA Problems (C++ and python)
+- 🌱 I’m currently learning WebDevelopment & Practicing DSA Problems (C++ and Java)
 - 💞️ I’m looking to collaborate on Web Based Project & ready to learn about open source projects
 - 📫 You can reach me via LinkedIn 😄
 - https://www.linkedin.com/in/akshatkushwaha/
