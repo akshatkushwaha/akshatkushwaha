@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://akshatkushwaha.tech/](https://akshatkushwaha.tech/)
+- 👨‍💻 All of my projects are available [here](https://akshatkushwaha.github.io/)
 
 - 💬 Ask me about **DSA Java, C++**
 
